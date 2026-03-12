@@ -1,0 +1,57 @@
+ui:
+  skills: "Technical Skills"
+  experience: "Work Experience"
+  certifications: "Certifications & Awards"
+
+name: Jane Doe
+email: jane.doe@example.com
+phone: "+10000000000"
+linkedin: linkedin.com/in/janedoe
+
+skills:
+  - label: "Programming languages"
+    value: "Language A, Language B, Language C"
+  - label: "Frameworks"
+    value: "Framework A, Framework B, Framework C"
+  - label: "Services"
+    value: "Service A, Service B, Service C"
+  - label: "Developer Tools"
+    value: "Tool A, Tool B, Tool C"
+  - label: "Operative Systems"
+    value: "OS A, OS B, OS C"
+  - label: "Spoken Languages"
+    value: "Language A (Native), Language B (Professional)"
+
+experience:
+  - company: Example Company A
+    role: Senior Developer
+    location: Remote / Country
+    period: "2023 - Present"
+    bullets:
+      - "Designed and maintained a system that achieved X result, improving efficiency by N%."
+      - "Integrated third-party APIs to automate workflows across multiple platforms."
+      - "Built administrative dashboards enabling efficient data management."
+
+  - company: Example Company B
+    role: Mid-level Developer
+    location: Remote / Country
+    period: "2020 - 2023"
+    bullets:
+      - "Developed and maintained a large-scale software application."
+      - "Refactored a legacy project, improving performance and reducing errors by N%."
+      - "Designed UI/UX interfaces for mobile users, increasing engagement by N%."
+
+  - company: Example Company C
+    role: Junior Developer
+    location: On-site / Country
+    period: "2018 - 2020"
+    bullets:
+      - "Built custom web pages for clients, expanding customer engagement by N%."
+      - "Provided ongoing technical support, ensuring optimal performance and security."
+      - "Managed diverse projects across multiple industries."
+
+certifications:
+  - name: Certification Name
+    detail: Certification detail or specialization
+    url: https://example.com/verify
+    year: "2023"

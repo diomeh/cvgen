@@ -1,0 +1,17 @@
+# Ignore all personal resume content files
+content/*.yml
+content/*.yaml
+
+# Keep the demo file
+!content/example.yml
+
+# Build output
+dist/
+
+# Rust
+target/
+
+# Editor
+.vscode/
+.idea/
+*.swp
